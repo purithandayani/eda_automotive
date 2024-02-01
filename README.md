@@ -1,1 +1,1 @@
-# eda_automotive
+This dataset is about featuring details of used cars available on OLX website for sale, mostly in Pakistan. I use the dataset from Kaggle which can be downloaded in this link https://www.kaggle.com/datasets/abdullahkhanuet22/olx-cars-dataset/data
